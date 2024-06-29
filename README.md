@@ -2,7 +2,8 @@
 - 👀 I’m interested in php, mysql, html, css, python, linux, coding.
 - 📫 How to reach me : email xpindia@gmail.com, FB drjamesrobert
 
-- I am currently self learning all the above programming languages with the help of you tube teachers like @codewithharry and many other youtube code videos.  I am also taking help of AI to self learn.
+- I am currently self learning all the above programming languages with the help of you tube teachers like @codewithharry and many other youtube code videos.
+- I am also taking help of AI to self learn.
 
 - Best Regards
 - Robert
